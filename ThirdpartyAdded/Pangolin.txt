@@ -1,3 +1,5 @@
 Dependencies:
 	OpenGL: Installed via 	"sudo apt install libgl1-mesa-dev"
 	Glew:	Installed via 	"sudo apt install libglew-dev"
+
+Located at main/Pangolin
